@@ -1,5 +1,7 @@
 # LoRA Reality Check
 
+> Part of the [**model-poisoning-lab**](https://github.com/egarim/model-poisoning-lab) series — defensive LLM-poisoning demos with a shared [training methodology](https://github.com/egarim/model-poisoning-lab/blob/main/TRAINING.md).
+
 A complete, reproducible LoRA fine-tune that takes a task from **0% to 100%** in
 about three minutes on a Mac — **and two follow-up checks that show what it cost.**
 
